@@ -14,7 +14,7 @@ I'm a web designer and developer based in Tampa, FL.
 
 ### 🔭 I’m working on
 
-- Projects for my portfolio.
+- Projects for my <a href="https://doririvera.com/" target="_blank">portfolio</a>
 - Udemy course: <a href="https://www.udemy.com/share/101W9C3@1M_QhS4mPPUCvC_YkzA_9uwuS5m3UrAnNfsXJ0k2WgU7MFYo6ZnrDb-TbDiARLsj5g==/" target="_blank">The Web Developer Bootcamp 2022</a>
 - Udemy course: <a href="https://www.udemy.com/share/103F1h3@0UTc-96fMnIHlykchcjA0KLCwkIX5X3WH-pTSKWP9Ih2a075bOW-t0QId85PK7xOlw==/" target="_blank">Complete Web & Mobile Designer in 2022</a>
 
@@ -36,7 +36,7 @@ I'm a web designer and developer based in Tampa, FL.
   <a href="https://www.linkedin.com/in/doririvera/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://medium.com/@bernardbad">
+  <a href="mailto:shadyandlucky@gmail.com">
     <img src="https://img.shields.io/badge/Gmail%20address-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
