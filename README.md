@@ -1,15 +1,3 @@
-- 👋 Hi, I’m @shadyandlucky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-shadyandlucky/shadyandlucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-
 ## Hi there 👋
 
 I'm a web designer and developer based in Tampa, FL.
@@ -40,7 +28,7 @@ I'm a web designer and developer based in Tampa, FL.
 
 ### 🤔 I’m looking for help with
 
-- Integrating AI models to web applications
+- Seeking freelance projects.
 
 ### 📫 How to reach me
 
