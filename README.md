@@ -26,10 +26,6 @@ I'm a web designer and developer based in Tampa, FL.
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=javascript&logoColor=white" alt="Git"/>
 </div>
 
-### 🤔 I’m looking for help with
-
-- Seeking freelance projects.
-
 ### 📫 How to reach me
 
 <div display="flex">
