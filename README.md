@@ -22,7 +22,7 @@ I'm a web designer and developer based in Tampa, FL.
 
 <div display="flex">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+  <img src="https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=javascript&logoColor=white" alt="Git"/>
 </div>
 
