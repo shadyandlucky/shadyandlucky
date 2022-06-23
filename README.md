@@ -30,9 +30,9 @@ I'm a web designer and developer based in Tampa, FL.
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/doririvera/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:shadyandlucky@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:web@doririvera.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </div>
 
-### ⚡ Fun fact
+### 💎 Fun fact
 
-Shady, Lucky, and Nico are my dog's names.
+I love collecting crystals!
