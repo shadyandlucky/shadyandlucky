@@ -16,12 +16,6 @@ I'm a web designer and developer based in Tampa, FL.
 
 - Projects for my personal <a href="https://doririvera.com/" target="_blank">portfolio</a>
 
-### 🌱 I’m learning
-
-<div display="flex">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript"/>
-</div>
-
 ### 📫 How to reach me
 
 <div display="flex">
