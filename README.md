@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a web designer and developer based in Tampa, FL.
+I'm a designer with 10+ years of experience in web and graphic design, working across a wide range of digital projects within the creative services industry. My work focuses on clean, effective design, with an emphasis on responsiveness, quality, and visual consistency. I take a user-centered approach to every project, creating digital and print experiences that communicate clearly and intuitively.
 
 ###  🖤 I love working with
 
